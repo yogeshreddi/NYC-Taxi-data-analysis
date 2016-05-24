@@ -1,5 +1,5 @@
 # NYC-Taxi-data-analysis
-The NYC Taxi industry is facing both driver and customer churn./n
+The NYC Taxi industry is facing both driver and customer churn.
 Yellow taxis face fierce completion from Uber.
 Uber fleet outnumbers Yellow Taxis by 1.5x.
 Uber has about 25000 new users in NY signing up every week.
