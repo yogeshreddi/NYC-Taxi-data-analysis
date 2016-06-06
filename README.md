@@ -11,3 +11,23 @@ Advantages of NYC Taxi over Uber:
 -Metered rates
 -Professional drivers
 -Regulated environment
+
+## First Goal
+
+First Goal will be to look into the data from deep quarters and find if there are any particular trend in the data.
+
+## Second Goal
+
+Get different variables from different data sources, like divide the data into boroughs and if see there are any trends in terms of boroughs.
+
+## First real analysis of the project - To answer a question.
+
+NYC Taxi – does Uber serve unmet demand or compete with yellow taxis in NYC?
+Uber is offered in NYC, along with the NYC Taxi (Yellow cabs). We want to explore to what extent is Uber competing for NYC taxi customers, and to what extent is Uber serving unmet demand. For example, if out of a total of 1 million rides, the NYC taxis are serving 800,000 rides, and Uber is serving 200,000 rides, there could be three possibilities:
+(a)    If Uber was not there, NYC taxis still serve 800,000 rides. In this case, Uber is said to serve unmet demand.
+
+(b)    If Uber was not there, NYC taxis might have served 1 million rides. In this case, Uber is fully competing with NYC Taxis for customers.
+
+(c)     If Uber was not there, NYC taxis might have served 950,000 rides. In this case, Uber is partially serving unmet demand (50,000 rides) and partially competing with NYC Taxis (150,000 rides).
+
+Most probably, scenario (c) may be happening, with different numbers than the above. Our goal is to estimate the extent to which Uber is competing with NYC Taxis.
