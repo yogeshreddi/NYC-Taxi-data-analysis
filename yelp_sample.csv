@@ -1,0 +1,801 @@
+address,business_name,category,n_reviews,price_category,rating,searched_zip
+"220 W 30th StNew York, NY 10001",Tianti Books,",Coffee & Tea,Bookstores",28,1,5,10001
+"225 W 35th StNew York, NY 10018",Best Bagel and Coffee,",Bagels,Coffee & Tea,Breakfast & Brunch",1010,1,4.5,10001
+"387 8th AveNew York, NY 10001",Juicology,",Salad,Juice Bars & Smoothies,Sandwiches",62,1,4.5,10001
+"220 W 31st StNew York, NY 10001",Soup Spot,",Soup",226,1,4.5,10001
+"413 8th AveNew York, NY 10001",NY Pizza Suprema,",Pizza",965,1,4,10001
+"275 7th AveNew York, NY 10001",Seven Grams Caffe,",Coffee & Tea,Bakeries",234,1,4.5,10001
+"51 W 29th StNew York, NY 10001",New York Bakery,",Bakeries,Korean,Mexican",75,1,4.5,10001
+"286 8th AveNew York, NY 10001",Brooklyn Bagel & Coffee Company,",Bagels,Breakfast & Brunch,Cafes",794,1,4,10001
+"493A 9th AveNew York, NY 10018",Jonny’s Panini,",Coffee & Tea,Sandwiches,Italian",88,1,4.5,10001
+"265 W 37th StNew York, NY 10018",Ramini Espresso Bar & Cafe,",Coffee & Tea,Cafes",117,1,4.5,10001
+"148 W 28th StNew York, NY 10001",A Little Taste,",Cafes",63,1,4.5,10001
+"320 8th AveNew York, NY 10001",Bean & Bean,",Coffee & Tea,Organic Stores",76,1,4.5,10001
+"2 Penn PlzNew York, NY 10121",Krispy Kreme Doughnuts,",Donuts,Coffee & Tea",157,1,4,10001
+"124 W 25th StNew York, NY 10001",Johny’s Luncheonette,",American (Traditional),Diners,Breakfast & Brunch",589,1,4,10001
+"165 W 26th StNew York, NY 10001",B&B Restaurant Corp,",African",77,1,4.5,10001
+"374 Eighth AveNew York, NY 10001",Am & Al Deli,",Sandwiches,Delis",30,1,4,10001
+"336 W 37th StNew York, NY 10018",Madman Espresso,",Coffee & Tea",40,1,4.5,10001
+"273 W 38th StNew York, NY 10018",Go! Go! Curry!,",Japanese",1095,1,4,10001
+"121 W 29thNew York, NY 10001",Luna 29 Cafe,",Cafes",61,1,4.5,10001
+"1 Penn PlzNew York, NY 10119",Rosa’s Pizza and Pasta,",Pizza,Italian",150,1,4,10001
+"163B W 29th StNew York, NY 10001",B & D Halal Restaurant,",African,Halal",35,1,4,10001
+"65 W 37th StNew York, NY 10018",The Picnic Basket,",Cafes,Sandwiches,Breakfast & Brunch",284,1,4,10001
+"332 9th AveNew York, NY 10001",Billymark’s West,",Dive Bars",121,1,4,10001
+"12 W 32nd StNew York, NY 10001",Woorijip Authentic Korean Food,",Korean",1956,1,4,10001
+"1000 Avenue of the AmericasNew York, NY 10018",Chick-fil-A,",Fast Food",318,1,4,10001
+"59 W 30th StNew York, NY 10001",Madman Espresso,",Coffee & Tea",19,1,4.5,10001
+"31st St and BroadwayNew York, NY 10001",31st and Broadway Halal Cart,",Middle Eastern,Food Stands",35,1,4.5,10001
+"2 W 32nd StNew York, NY 10001",E-Mo,",Korean",239,1,4,10001
+"147 W 24th StNew York, NY 10011",One Star,",Bars",67,1,4,10001
+"170 9th AveNew York, NY 10011",Dil-e Punjab Deli,",Indian,Vegetarian,Pakistani",136,1,4.5,10001
+"316 5th AveNew York, NY 10001",Small Peace Soup & Smoothie,",Vegan,Vegetarian,Juice Bars & Smoothies",51,1,4.5,10001
+"New York, NY 10121",The Cinnamon Snail,",Food Trucks",889,1,4.5,10001
+"2 Pennsylvania PlzNew York, NY 10121",Don Pepi Deli,",Delis",44,1,4,10001
+"15 E 31st StNew York, NY 10016",Cup & Cup,",Coffee & Tea,Cafes,Korean",205,1,4.5,10001
+"247 W 36th StNew York, NY 10018",Culture 36,",Coffee & Tea",37,1,4,10001
+"75 W 38th StNew York, NY 10018",Gong Cha,",Coffee & Tea,Bubble Tea",215,1,4,10001
+"501 7th AveNew York, NY 10018",Potbelly Sandwich Shop,",Sandwiches,Salad,Soup",144,1,4,10001
+"616 8th AveNew York, NY 10018",The Hummus & Pita Co,",Middle Eastern,Mediterranean,Vegetarian",160,1,4,10001
+"325 8th AveNew York, NY 10001",Taco Bandito,",Mexican,Tex-Mex",146,1,3.5,10001
+"325 5th AveNew York, NY 10016",99 Cents Fresh Pizza - CLOSED,",Pizza",105,1,4,10001
+"41 W 28th StNew York, NY 10001",A&J Lingerie and More,",Discount Store,Adult",146,1,5,10001
+"568 9th AveNew York, NY 10036",Empire Coffee & Tea Company,",Coffee & Tea",164,1,4,10001
+"257 7th AveNew York, NY 10001",Bella Napoli,",Italian,Pizza",121,1,4,10001
+"371 W 34th StNew York, NY 10001",Patiala Indian Food,",Indian",97,1,4,10001
+"265 W 37th StNew York, NY 10018",El Sabroso,",Latin American",85,1,4,10001
+"275 7th AveNew York, NY 10001",Argo Tea Café,",Cafes,Coffee & Tea",163,1,3.5,10001
+"171 W 23rd StNew York, NY 10011",Wrapido,",Mediterranean,Salad",235,1,4,10001
+"31st St & 8th AveNew York, NY 10001",Halal Cart,",Food Stands",18,1,4.5,10001
+"168 W 25th StNew York, NY 10001",Milanes Spanish Restaurant,",Spanish,Breakfast & Brunch,Sandwiches",87,1,4,10001
+"169 W 33rd StNew York, NY 10001",Little Italy Pizza,",Pizza",52,1,3.5,10001
+"551 7th AveNew York, NY 10018",Gregory’s Coffee,",Coffee & Tea",116,1,4,10001
+"267 W 34th StNew York, NY 10001",Roastown Coffee,",Coffee & Tea,Ice Cream & Frozen Yogurt,Asian Fusion",86,1,3.5,10001
+"255 W 43rd StNew York, NY 10036",Green Symphony,",Vegetarian,Vegan",327,1,4,10001
+"407 8th AveNew York, NY 10001",Tempest Bar,",Dive Bars,American (New)",79,1,3.5,10001
+"50 W 23rd StNew York, NY 10010",Brooklyn Roasting Company,",Coffee & Tea,Sandwiches",73,1,4,10001
+"30 W 35th StNew York, NY 10001",Costas - South American Arepas,",Latin American",60,1,4,10001
+"11 W 32nd StNew York, NY 10001",Food Gallery 32,",Korean,Bubble Tea,Coffee & Tea",562,1,3.5,10001
+"49 W 39th StNew York, NY 10018",The Kati Roll Company,",Indian,Halal",955,1,4,10001
+"532 Ninth AveNew York, NY 10018",Holland Bar,",Dive Bars,Sports Bars",74,1,4,10001
+"376 8th AveNew York, NY 10001",Salumeria Biellese,",Delis,Salad,Sandwiches",66,1,3.5,10001
+"753 6th AveNew York, NY 10010",Olympia Deli,",Delis",30,1,4,10001
+"330 7th AveNew York, NY 10001",Panera Bread,",Sandwiches,Salad,Soup",103,1,3.5,10001
+"286 8th AveNew York, NY 10001",Renewing Spa,",Massage,Reflexology",170,1,4.5,10001
+"75 9th AveNew York, NY 10011",Los Tacos No.1,",Mexican",1132,1,4.5,10001
+"1030 BroadwayNew York, NY 10010",Calexico Cart,",Food Stands,Mexican",275,1,4,10001
+"290 5th AveNew York, NY 10001",Space Gabi,",Coffee & Tea",22,1,4.5,10001
+"14 E 34th StNew York, NY 10016",Xi’an Famous Foods,",Chinese",216,1,4,10001
+"270 W 36th StNew York, NY 10018",Chicken House,",Chicken Wings,Vietnamese,Sandwiches",82,1,3.5,10001
+"11 W 32nd StNew York, NY 10001",Spot Dessert Bar,",Desserts,Tapas Bars,Coffee & Tea",292,1,3.5,10001
+"297 7th AveNew York, NY 10001",Epice Cafe,",Cafes,Sandwiches",31,1,3.5,10001
+"427 7th AveNew York, NY 10001",Gyro II,",Middle Eastern,Greek,Mediterranean",172,1,3.5,10001
+"249 W 26th StNew York, NY 10001",Chelsea Park Barbers,",Barbers",52,1,5,10001
+"389 8th AveNew York, NY 10001",Walter’s Bar,",Pubs,Sports Bars",47,1,3.5,10001
+"495 9th AveNew York, NY 10018",9th Avenue Barber Shop,",Barbers",63,1,5,10001
+"304 W 34th StNew York, NY 10001",Chipotle,",Mexican,Fast Food",133,1,3,10001
+"254 W 29th StNew York, NY 10001",Magnet Theater,",Comedy Clubs,Performing Arts,Art Schools",96,1,4.5,10001
+"1270 BroadwayNew York, NY 10001",Laser Bar & Spa,",Laser Hair Removal,Skin Care,Waxing",39,1,5,10001
+"7 W 36th StNew York, NY 10001",Fork & Spoon,",Delis,Breakfast & Brunch,Sandwiches",107,1,4,10001
+"503 W 28th StNew York, NY 10001",Highline Pizza,",Pizza",40,1,4,10001
+"578 9th AveNew York, NY 10036",Taqueria Tehuitzingo,",Mexican",208,1,4,10001
+"100 W 23rd StNew York, NY 10011",Great Burrito,",Pizza,Mexican",175,1,4,10001
+"316 W 39th StNew York, NY 10018",Cafe Mofongo,",Dominican",21,1,4,10001
+"408 8th AveNew York, NY 10001",Famous Amadeus Pizza,",Pizza,Italian,Burgers",174,1,3,10001
+"307 West 26th St.New York, NY 10001",Upright Citizens Brigade Theatre,",Comedy Clubs",458,1,4,10001
+"25 W 35th StNew York, NY 10001",Cafe Rustico II,",Italian,Pizza",45,1,4,10001
+"355 7th AveNew York, NY 10001",Lz Sushi,",Sushi Bars",68,1,3.5,10001
+"265 W 37th StNew York, NY 10018",Metro Textile Corp,",Fabric Stores",39,1,5,10001
+"174 9th AveNew York, NY 10011",Blossom Bakery,",Bakeries,Desserts,Vegan",68,1,4,10001
+"502 9th AveNew York, NY 10018",Buongiorno Espresso Bar,",Coffee & Tea",53,1,3.5,10001
+"6th Avenue & 28th StreetNew York, NY 10001",Antojito Mexicano,",Mexican,Food Stands",21,1,4,10001
+"6th Avenue & 28th StreetNew York, NY 10001",Antojito Mexicano,",Mexican,Food Stands",21,1,4,10001
+"478 9th AveNew York, NY 10018",Cuisine Of Pakistan,",Pakistani",84,1,3.5,10001
+"15 W 29th StNew York, NY 10001",Lasani Restaurant,",Indian,Halal",32,1,4,10001
+"1073 6th Ave, 2nd FlNew York, NY 10018",Café Zaiya,",Desserts,Coffee & Tea,Japanese",132,1,4,10001
+"115 W 23rd StNew York, NY 10011",Chelsea Hair Studio,",Barbers",86,1,5,10001
+"1412 BroadwayNew York, NY 10018",The Coffee Bean & Tea Leaf,",Coffee & Tea,Kosher",143,1,3.5,10001
+"New York, NY",Kelvin Natural Slush Co,",Food Stands",163,1,4,10001
+"One Penn PlzNew York, NY 10119",Lenwich,",Sandwiches,Salad,Breakfast & Brunch",77,1,3.5,10001
+"256 W 20th StNew York, NY 10011",Royal Class Barber Shop,",Barbers",104,1,5,10001
+"140 W 44th StNew York, NY 10036",Jimmy’s Corner,",Pubs,Sports Bars,Dive Bars",396,1,4,10001
+"456 9th AveNew York, NY 10018",Sergimmo Salumeria,",Italian,Sandwiches",454,2,4.5,10001
+"234 W 35th StNew York, NY 10001",Madman Espresso,",Coffee & Tea",130,2,4.5,10001
+"143 W 29th StNew York, NY 10001",Cafe Hanamizuki,",Cafes",261,2,4,10001
+"132 W 31st StNew York, NY 10001",Friedman’s,",American (New),Gluten-Free,Breakfast & Brunch",977,2,4,10001
+"20 W 29th StNew York, NY 10001",Stumptown Coffee Roasters,",Coffee & Tea",1190,2,4.5,10001
+"348 7th AveNew York, NY 10001",VLife,",Vegan,Vegetarian,Juice Bars & Smoothies",145,2,4,10001
+"409 8th AveNew York, NY 10001",Riko Peruvian Cuisine,",Peruvian,Latin American,Seafood",294,2,4,10001
+"245 W 29th StNew York, NY 10001",OCabanon,",French,Wine Bars,Tapas Bars",226,2,4,10001
+"33rd & BroadwayNew York, NY 10001",Broadway Bites,",Food Court,Food Trucks",138,2,4,10001
+"220 W 23rd StNew York, NY 10011",Doughnut Plant,",Donuts,Coffee & Tea",1767,2,4,10001
+"252 W 29th StNew York, NY 10001",Haymaker Bar and Kitchen,",Gastropubs,Beer Bar",87,2,4,10001
+"53 W 35th StNew York, NY 10001",Izakaya MEW,",Japanese,Sushi Bars",973,2,4,10001
+"874 Avenue of the AmericasNew York, NY 10001",Gregorys Coffee,",Coffee & Tea",183,2,4,10001
+"493 9th aveNew York, NY 10018",India Kitchen,",Indian",81,2,4.5,10001
+"249 9th AveNew York, NY 10001",Jun-Men Ramen Bar,",Ramen",246,2,4,10001
+"165 W 26th StNew York, NY 10001",Sid Gold’s Request Room,",Cocktail Bars",37,2,4.5,10001
+"302 W 38th StNew York, NY 10018",Cafe Tarantin,",Mediterranean,Cafes,Halal",92,2,4.5,10001
+"800 6th AveNew York, NY 10001",Waldy’s Wood Fired Pizza & Penne,",Pizza",583,2,4,10001
+"132 W 23rd StNew York, NY 10011",La Maison du Macaron,",Macarons,Coffee & Tea",760,2,4,10001
+"1 Penn PlzNew York, NY 10119",Tracks Raw Bar & Grill,",Pubs,Live/Raw Food,American (Traditional)",190,2,4,10001
+"246 W 38th StNew York, NY 10018",District Tap House,",Sports Bars,Gastropubs,Pubs",374,2,4,10001
+"11 West 32nd StNew York, NY 10001",DADAM,",Korean,Food Court",66,2,4.5,10001
+"235 W 35th StNew York, NY 10001",Asura Asian Bistro,",Chinese,Asian Fusion,Bars",177,2,4,10001
+"488 9th AveNew York, NY 10018",Tavola,",Italian,Pizza",449,2,4,10001
+"72 W 38th StNew York, NY 10018",Culture Espresso,",Coffee & Tea",645,2,4,10001
+"463 W 24th StNew York, NY 10001",Rocket Pig,",American (New)",105,2,4.5,10001
+"63 W 37th StNew York, NY 10018",Pokéworks,",Hawaiian,Seafood,Sushi Bars",814,2,4,10001
+"333 7th AveNew York, NY 10001",Black Iron Burger,",Burgers",105,2,4,10001
+"138 W 29th StNew York, NY 10001",Pioneers,",Lounges,Pubs,Venues & Event Spaces",138,2,4,10001
+"2 Penn PlazaNew York, NY 10121",The Pennsy,",Bars,American (Traditional),Food Court",125,2,4,10001
+"22 W 32nd StNew York, NY 10001",Jongro BBQ,",Korean,Barbeque",394,2,4,10001
+"1178 BroadwayNew York, NY 10001",Dig Inn,",American (Traditional)",207,2,4,10001
+"2 Penn PlzNew York, NY 10001",The Cinnamon Snail at The Pennsy,",Vegan,Vegetarian",88,2,4,10001
+"138 W 25th StNew York, NY 10001",Smithfield,",Pubs,American (Traditional),Sports Bars",310,2,4,10001
+"293 7th AveNew York, NY 10001",Kobeyaki,",Japanese,Sushi Bars,Burgers",365,2,4,10001
+"480 9th AveNew York, NY 10018",Larb Ubol,",Thai",453,2,4,10001
+"32 W 33rd StNew York, NY 10001",CajunSea & Oyster Bar,",Cajun/Creole,Seafood",347,2,4,10001
+"208 W 30th StNew York, NY 10001",Designs By Ahn,",Florists,Party Supplies",63,2,5,10001
+"151 W 34th StNew York, NY 10001",Stella 34 Trattoria,",Italian,Pizza",394,2,4,10001
+"547 9th AveNew York, NY 10018",Capizzi,",Pizza",519,2,4,10001
+"17 W 32nd StNew York, NY 10001",Grace Street,",Coffee & Tea,Desserts,Shaved Ice",764,2,4,10001
+"314 5th AveNew York, NY 10001",Turntable Chicken Jazz,",Chicken Wings,Lounges,American (New)",1139,2,4,10001
+"48 W 27th StNew York, NY 10001",Bombay Sandwich Co.,",Vegan,Vegetarian,Gluten-Free",217,2,4,10001
+"793 6th AveNew York, NY 10001",Hee Korean BBQ Grill,",Korean,Barbeque",80,2,4,10001
+"5W 32nd StNew York, NY 10001",BCD Tofu House,",Korean,Vegetarian",1011,2,4,10001
+"450 10th AveNew York, NY 10018",Friedman’s,",Breakfast & Brunch,Gluten-Free,American (New)",170,2,4,10001
+"34 W 32nd StNew York, NY 10001",Spot Karaoke & Lounge,",Karaoke,Lounges",127,2,4,10001
+"1164 BroadwayNew York, NY 10001",sweetgreen,",Salad,Vegetarian",398,2,4,10001
+"242 West 27th StNew York, NY 10001",CityTouch Licensed Massage Therapy,",Massage,Massage Therapy,Reflexology",65,2,5,10001
+"300 W 23rd StNew York, NY 10011",Asuka Sushi,",Sushi Bars,Japanese",541,2,4,10001
+"224 W 35th StNew York, NY 10001",Sushi Fussion of NYC,",Sushi Bars,Asian Fusion",31,2,4,10001
+"135 W 30th StNew York, NY 10001",Deweys Pub,",Gastropubs",55,2,4,10001
+"228 W 39th StNew York, NY 10018",Carragher’s Pub & Restaurant,",Pubs,Sports Bars,British",53,2,4.5,10001
+"60 W 23rd StNew York, NY 10010",Terri,",Sandwiches,Vegetarian,Juice Bars & Smoothies",662,2,4,10001
+"513 W 27th StNew York, NY 10001",Ovest Pizzoteca,",Pizza,Italian,Cocktail Bars",353,2,4,10001
+"124 W 25th StNew York, NY 10001",Perpetuum Cafe,",Coffee & Tea",35,2,4.5,10001
+"252 W 37th StNew York, NY 10018",District Social,",Bars,American (New)",71,2,4.5,10001
+"43 W 32nd StNew York, NY 10001",est. 1986 Wine Bar/Lounge,",Wine Bars,Lounges",189,2,4,10001
+"402 8th AveNew York, NY 10001",Molly Wee Pub,",Restaurants,Sports Bars,Pubs",150,2,3.5,10001
+"6 W 32nd StNew York, NY 10001",Paris Baguette,",Bakeries,Coffee & Tea",529,2,4,10001
+"6 W 32nd StNew York, NY 10001",Paris Baguette,",Bakeries,Coffee & Tea",529,2,4,10001
+"365 W 34th StNew York, NY 10001",Alpha Fusion,",Asian Fusion,Szechuan,Japanese",297,2,4,10001
+"300 W 22nd StNew York, NY 10011",Foragers Table,",Breakfast & Brunch,American (New),Wine Bars",259,2,4,10001
+"152 W 36th StNew York, NY 10018",Macaron Cafe,",Cafes,Macarons",450,2,3.5,10001
+"245 W 38th StNew York, NY 10018",Black Iron Burger,",Burgers",343,2,4,10001
+"522 9th AveNew York, NY 10018",Snack EOS,",Greek,Mediterranean",161,2,4,10001
+"200 9th AveNew York, NY 10011",The Meatball Shop,",Italian",550,2,4,10001
+"315 W 39th StNew York, NY 10018",Tír na Nóg,",American (New),Irish,Irish Pub",201,2,4,10001
+"249 W 26th StNew York, NY 10001",Pars Grill House,",Middle Eastern,Persian/Iranian",198,2,3.5,10001
+"237 W 35th StNew York, NY 10001",Juniper,",Cocktail Bars,American (New)",96,2,4,10001
+"236 9th AveNew York, NY 10001",Sullivan Street Bakery,",Bakeries,Breakfast & Brunch,Cafes",143,2,4,10001
+"1188 BroadwayNew York, NY 10001",No. 7 Sub,",Sandwiches",345,2,4,10001
+"472 9th AveNew York, NY 10018",Thai Select,",Thai",373,2,3.5,10001
+"140 W 30th StNew York, NY 10001",Till & Sprocket,",American (New),Cafes,Bars",45,2,4,10001
+"253 10th AveNew York, NY 10001",Pepe Giallo,",Italian",378,2,4,10001
+"224 W 35th StManhattan, NY 10001",Manhattan Iphone Repair,",Mobile Phones,Mobile Phone Repair",324,2,4.5,10001
+"420 5th AveNew York, NY 10018",Hole in the Wall Coffee,",Coffee & Tea,Donuts,Sandwiches",50,2,4.5,10001
+"247 W 30th StNew York, NY 10001",American Whiskey,",American (New),Cocktail Bars,Sports Bars",198,2,3.5,10001
+"246 10th AveNew York, NY 10001",Bottino Take-Out,",Sandwiches",108,2,4,10001
+"358 7th AveNew York, NY 10001",Erase Spa,",Laser Hair Removal,Tattoo Removal,Skin Care",89,2,5,10001
+"315 5th AveNew York, NY 10016",Soju Haus,",Korean",251,2,4,10001
+"371 7th AveNew York, NY 10001",Niles Restaurant,",Bars,American (New)",131,2,3.5,10001
+"1133 BroadwayNew York, NY 10010",Inday,",Indian,Salad",132,2,4,10001
+"9 W 32nd StNew York, NY 10001",Five Senses,",Korean,Barbeque",352,2,4,10001
+"152 W 26th StNew York, NY 10001",RARE View Rooftop Chelsea,",Cocktail Bars,Venues & Event Spaces,Sports Bars",88,2,4,10001
+"274 W 40th StNew York, NY 10018",Piccolo Cafe,",Coffee & Tea,Italian,Sandwiches",175,2,4,10001
+"325 W 38th StManhattan, NY 10018",Saajida’s Eyebrows,",Hair Removal,Makeup Artists,Eyelash Service",46,2,5,10001
+"1 25th StNew York, NY 10010",Madison Square Eats,",Street Vendors,American (Traditional)",281,2,4,10001
+"55 W 35th StNew York, NY 10001",Cho Dang Gol Korean Restaurant,",Korean",708,2,3.5,10001
+"147 W 35th StNew York, NY 10001",Robbie & Co Men’s Shop,",Bespoke Clothing,Formal Wear,Men's Clothing",43,2,5,10001
+"147 W 35th StNew York, NY 10001",Robbie & Co Men’s Shop,",Bespoke Clothing,Formal Wear,Men's Clothing",43,2,5,10001
+"340 9th AveNew York, NY 10001",Maggie Reillys Restaurant,",Pubs,American (Traditional)",46,2,4,10001
+"534 9th AveNew York, NY 10018",Snax Spot,",Burgers,Fast Food",30,2,5,10001
+"52 W 33rd StNew York, NY 10001",Petit Poulet,",French,Wine Bars",183,2,4,10001
+"121 Madison AveNew York, NY 10016",Blank Slate Coffee + Kitchen,",Coffee & Tea,Breakfast & Brunch,Bars",175,2,4.5,10001
+"64 W 39th StNew York, NY 10018",Parker & Quinn,",American (New),Bars,Venues & Event Spaces",545,2,4,10001
+"352 W 39th StNew York, NY 10018",Mercato,",Italian",477,2,4,10001
+"34 W 32nd StNew York, NY 10001",Space Billiard,",Pool Halls,Bars",114,2,4,10001
+"405 W 23rd StNew York, NY 10011",Joe Coffee,",Coffee & Tea",143,2,4,10001
+"251 W 30th StNew York, NY 10001",New York City Guitar School,",Art Schools,Musical Instruments & Teachers",44,2,5,10001
+"37 W 26th StNew York, NY 10010",Flatiron Room,",Lounges,Jazz & Blues,American (Traditional)",445,3,4.5,10001
+"129 W 29th StNew York, NY 10001",Wine Disciples Enoteca,",Wine Bars,Italian",51,3,4.5,10001
+"299 10th AveNew York, NY 10001",Porteno Restaurant,",Argentine",244,3,4.5,10001
+"243 West 30th StreetNew York, NY 10001",Ken & Dana Design,",Bridal,Jewelry",138,3,5,10001
+"10 W 28th StNew York, NY 10001",The NoMad Bar,",Cocktail Bars",212,3,4.5,10001
+"1170 BroadwayNew York, NY 10001",The NoMad Hotel,",Gastropubs,Lounges",156,3,4,10001
+"187 9th AveNew York, NY 10011",Blossom Vegan Restaurant,",Vegetarian,Vegan,Kosher",695,3,4,10001
+"542 W 27th StNew York, NY 10001",The Heath,",Bars,Music Venues,Modern European",189,3,4.5,10001
+"200 W 39th StNew York, NY 10018",The Skylark,",Cocktail Bars",218,3,4,10001
+"128 W 26th StNew York, NY 10001",Tre Dici - CLOSED,",Italian",269,3,4,10001
+"236 5th AveNew York, NY 10001",ilili,",Mediterranean,Lebanese",1706,3,4,10001
+"350 5th AveNew York, NY 10118",State Grill and Bar,",Bars,American (New)",59,3,4.5,10001
+"310 W 38th StNew York, NY 10018",Casa Nonna,",Italian,Pizza",276,3,4,10001
+"132 W 31st StNew York, NY 10001",Pennsylvania 6 NYC,",American (New)",243,3,3.5,10001
+"20 W 29th StNew York, NY 10001",Ace Hotel New York,",Hotels,Bars",559,3,4,10001
+"47 W 38th StNew York, NY 10018",David Burke Fabrick,",American (New)",310,3,4,10001
+"530 W 27th StNew York, NY 10001",The McKittrick Hotel,",Modern European,Music Venues",13,3,5,10001
+"141 W 41st StNew York, NY 10036",Ootoya Times Square,",Japanese",407,3,4,10001
+"17 W 26th StNew York, NY 10010",Maysville,",American (New),Wine Bars",404,3,4,10001
+"43 W 24th StNew York, NY 10010",Raymi,",American (New),Peruvian,Tapas Bars",380,3,4,10001
+"232 8th AvenueNew York, NY 10011",Momofuku Nishi,",Korean,Italian,American (New)",106,3,4,10001
+"12 E 32nd StNew York, NY 10016",Hangawi,",Vegetarian,Korean,Vegan",774,3,4,10001
+"8 W 36th StNew York, NY 10018",Kristalbelli,",Korean",296,3,4,10001
+"159 W 23rd StNew York, NY 10011",Francisco’s Centro Vasco,",Spanish,Seafood",176,3,4,10001
+"1250 BroadwayNew York, NY 10001",Gaonnuri,",Korean,Cocktail Bars",454,3,3.5,10001
+"227 10th AveNew York, NY 10011",The Red Cat,",American (New)",542,3,4,10001
+"205 10th AveNew York, NY 10011",Tia Pol,",Tapas Bars,Spanish",564,3,4,10001
+"20 W 29th StNew York, NY 10001",The Breslin Bar & Dining Room,",Pubs,Gastropubs",1234,3,3.5,10001
+"17 E 32nd StNew York, NY 10016",Dons Bogam BBQ & Wine Bar,",Korean,Barbeque,Wine Bars",729,3,4,10001
+"36 W 26th StNew York, NY 10010",Hanjan,",Korean",244,3,4,10001
+"185 7th AveNew York, NY 10011",Momoya,",Sushi Bars,Japanese",349,3,4,10001
+"136 9th AveNew York, NY 10011",Salinas,",Spanish",645,3,4,10001
+"27 W 24th StNew York, NY 10010",Junoon,",Indian",876,3,3.5,10001
+"225 W 35th StNew York, NY 10001",Medical Pedicure,",Medical Spas",41,3,5,10001
+"207 W 36th StNew York, NY 10018",Delmonico’s Kitchen,",Steakhouses",223,3,3.5,10001
+"240 9th AveNew York, NY 10001",Txikito,",Basque,Tapas/Small Plates",268,3,3.5,10001
+"63 W 38th StNew York, NY 10018",Winnie’s Lobby Bar,",Cocktail Bars",26,3,4.5,10001
+"1 E 32nd StNew York, NY 10016",Kang Ho Dong Baekjeong,",Korean,Barbeque",533,3,3.5,10001
+"226 W 23rd StNew York, NY 10011",El Quijote,",Spanish,Basque",297,3,3.5,10001
+"542 W 27th StNew York, NY 10001",Gallow Green,",Cocktail Bars,Restaurants",378,3,3.5,10001
+"1333 BroadwayNew York, NY 10018",Hairroin Salon,",Hair Stylists",122,3,4.5,10001
+"9 Penn PlzNew York, NY 10001",Nick & Stef’s Steakhouse,",Steakhouses",127,3,3.5,10001
+"207 10th AveNew York, NY 10011",Juban,",Japanese,Sushi Bars",68,3,4.5,10001
+"122 W 29th StNew York, NY 10001",VickyC5,",Makeup Artists,Skin Care,Day Spas",102,3,4.5,10001
+"231 W 40th StNew York, NY 10018",Inakaya,",Japanese",333,3,3.5,10001
+"259 W 19th StNew York, NY 10011",Socarrat Paella Bar,",Spanish,Tapas Bars,Tapas/Small Plates",876,3,4,10001
+"835 6th AveNew York, NY 10001",Lupulo,",Seafood,Portuguese",133,3,3.5,10001
+"200 5th AveNew York, NY 10010",Manzo,",Italian,Seafood",222,3,4,10001
+"250 7th AveNew York, NY 10001",Whole Foods Market,",Grocery,Specialty Food,Coffee & Tea",230,3,3.5,10001
+"132 W 27th StNew York, NY 10001",Impero Caffè,",Italian",17,3,4,10001
+"250 7th AveNew York, NY 10001",Whole Foods Market,",Grocery,Specialty Food,Coffee & Tea",230,3,3.5,10001
+"132 W 27th StNew York, NY 10001",Impero Caffè,",Italian",17,3,4,10001
+"136 W 33rd StNew York, NY 10001",Statler Grill,",American (Traditional),Steakhouses,Breakfast & Brunch",266,3,3,10001
+"53 W 19th StNew York, NY 10011",Boqueria,",Spanish,Tapas Bars,Wine Bars",859,3,4,10001
+"29 E 29th StNew York, NY 10016",Marta,",Pizza,Italian",398,3,4,10001
+"378 Park Ave SNew York, NY 10010",Hillstone Restaurant,",American (New),Sushi Bars",604,3,4,10001
+"242 10th AveNew York, NY 10001",Trestle on Tenth,",American (New)",258,3,3.5,10001
+"48 W 21st StNew York, NY 10010",Natural Gourmet Institute,",Cooking Schools,Vegetarian",28,3,4,10001
+"315 W 44th StNew York, NY 10036",Birdland Jazz Club,",Jazz & Blues,Cajun/Creole,Cabaret",203,3,4,10001
+"132 9th AveNew York, NY 10011",Bathtub Gin,",Bars",531,3,4,10001
+"255 5th AveNew York, NY 10016",Ben & Jack’s Steakhouse,",Steakhouses,Wine Bars,Seafood",219,3,3.5,10001
+"40 W 40th StNew York, NY 10018",Koi Restaurant,",Sushi Bars,Japanese",530,3,3.5,10001
+"352 W 44th StNew York, NY 10036",Etcetera Etcetera,",Italian,Venues & Event Spaces,Gluten-Free",310,3,4,10001
+"19 E 26th StNew York, NY 10010",Black Barn,",American (New)",107,3,4,10001
+"New York, NY 10001",Damone Roberts On Demand,",Hair Removal,Makeup Artists,Eyelash Service",32,3,4.5,10001
+"47 W 38th StNew York, NY 10018",Spyglass Rooftop Bar,",Cocktail Bars",108,3,4,10001
+"63 W 38th StNew York, NY 10018",Refinery Rooftop,",Lounges",350,3,3.5,10001
+"75 9th AveNew York, NY 10011",Buddakan,",Chinese,Asian Fusion",2826,3,4,10001
+"345 Park Ave SNew York, NY 10010",Upland,",American (New)",383,3,4,10001
+"156 9th AveNew York, NY 10011",Tipsy Parson,",American (New),Desserts,Salad",468,3,3.5,10001
+"33 W 37th StNew York, NY 10018",The Strand Bistro,",American (New)",103,3,3.5,10001
+"5 Madison AveNew York, NY 10010",The Clocktower,",British",122,3,4,10001
+"141 W 38th StNew York, NY 10018",Arno Ristorante,",Italian",117,3,3.5,10001
+"24 E 21st StNew York, NY 10010",Almayass,",Mediterranean,Armenian,Middle Eastern",248,3,4.5,10001
+"851 Avenue Of The AmericasNew York, NY 10001","Eventi Hotel, a Kimpton Hotel",",Hotels,Venues & Event Spaces,Wedding Planning",251,3,4,10001
+"35 W 20th StNew York, NY 10011",Periyali,",Greek",171,3,4,10001
+"310 5th AveNew York, NY 10001",JJ Hat Center,",Hats",74,3,4.5,10001
+"414 W 42nd StNew York, NY 10036",Chez Josephine,",French",252,3,3.5,10001
+"182 9th AveNew York, NY 10011",Chris Chase,",Hair Salons",122,3,5,10001
+"1407 BroadwayNew York, NY 10018",Abigael’s Restaurant & Catering,",American (New),Kosher",83,3,3.5,10001
+"1170 Broadway & 28th StNew York, NY 10001",The NoMad Hotel,",Hotels",84,3,4.5,10001
+"149 Madison AvenueNew York, NY 10016",Pulse Laser & Skincare Center,",Laser Hair Removal,Skin Care",251,3,5,10001
+"10 W 37th StManhattan, NY 10018",A K A Cedric,",Hair Salons",35,3,5,10001
+"25 W 26th StNew York, NY 10001",My Cooking Party,",Do-It-Yourself Food,Party & Event Planning,Cooking Schools",32,3,5,10001
+"355 W 14th StNew York, NY 10014",Scarpetta,",Italian",1317,3,4,10001
+"32 W 37th StNew York, NY 10018",Frankie & Johnnie’s Steak House,",Steakhouses,American (New)",107,3,3.5,10001
+"1196 BroadwayNew York, NY 10001",The John Dory Oyster Bar,",Seafood,Pubs",445,3,3,10001
+"142 W 44th StNew York, NY 10036",Osteria Al Doge,",Italian",283,3,4,10001
+"6 E 32nd StNew York, NY 10016",IchiUmi,",Japanese,Seafood,Korean",1030,3,3.5,10001
+"116 E 27th StNew York, NY 10016",Jazz Standard,",Jazz & Blues,Barbeque",174,3,4,10001
+"200 5th AveManhattan, NY 10010",Il Pesce,",Seafood",58,3,4,10001
+"134 W 23rd StNew York, NY 10011",Emi Nails,",Nail Salons",27,3,5,10001
+"360 Park Ave SNew York, NY 10010",Park Avenue Autumn/Winter/Spring/Summer,",American (New)",369,3,4,10001
+"127 E 27th StNew York, NY 10016",Covina,",American (New),Bars,Cafes",54,3,4.5,10001
+"2 Park AveNew York, NY 10016",Artisanal Fromagerie Bistro,",Brasseries,Fondue,Breakfast & Brunch",892,3,3.5,10001
+"19 E 26th StNew York, NY 10010",SD26 Restaurant & Wine Bar,",Italian",302,3,3.5,10001
+"11 W 25th StNew York, NY 10010",Alibi 25 Salon,",Hair Salons,Makeup Artists",98,3,4.5,10001
+"230 Fifth AveNew York, NY 10001",230 Fifth Rooftop Bar,",Cocktail Bars,American (New)",1907,3,3,10001
+"4 Penn PlzNew York, NY 10121",Billy Joel At Madison Square Garden,",Music Venues,Musicians",10,3,5,10001
+"1114 Avenue of the AmericasNew York, NY 10036",STK Midtown,",Steakhouses,American (New),Cocktail Bars",435,3,3.5,10001
+"72 W 36th StNew York, NY 10018",Keens Steakhouse,",Steakhouses",1490,4,4,10001
+"1170 BroadwayNew York, NY 10001",The NoMad Restaurant,",French,Spanish",871,4,4,10001
+"362 W 23rd StNew York, NY 10011",Ushiwakamaru,",Japanese,Sushi Bars",41,4,4.5,10001
+"400 5th AveNew York, NY 10018",Ai Fiori,",Italian,French,Seafood",792,4,4,10001
+"12 E 31st StNew York, NY 10016",Juni,",Restaurants",125,4,4.5,10001
+"11 Madison AveNew York, NY 10010",Eleven Madison Park,",American (New),French",1421,4,4.5,10001
+"440 9th AveNew York, NY 10001",Uncle Jack’s Steakhouse - Westside,",Steakhouses,Breakfast & Brunch,Seafood",326,4,3.5,10001
+"41 W 42nd StNew York, NY 10036",Gabriel Kreuther,",Bars,French",99,4,4.5,10001
+"135 W 42nd StNew York, NY 10036",Aureole,",American (New)",602,4,4,10001
+"246 5th AveNew York, NY 10001",Teisui,",Japanese",17,4,4.5,10001
+"4 Park AveNew York, NY 10016",Wolfgang’s Steakhouse,",Steakhouses",656,4,4,10001
+"120 E 28th StNew York, NY 10016",O Ya,",Japanese,Sushi Bars",81,4,4.5,10001
+"311 W 43rd StNew York, NY 10036",Hakkasan,",Chinese",543,4,3.5,10001
+"72 Madison AveNew York, NY 10016",Rocco Steakhouse,",American (Traditional),Steakhouses",34,4,4.5,10001
+"336 W 23rd StNew York, NY 10011",Serge Normant at John Frieda,",Hair Salons",20,4,4.5,10001
+"402 W 43rd StNew York, NY 10036",Esca,",Italian",494,4,3.5,10001
+"208 W 23rd StNew York, NY 10011",Sushi Seki - Chelsea,",Sushi Bars,Japanese",77,4,3.5,10001
+"234 W 42nd StNew York, NY 10036",Speakeasy Dollhouse - Ziegfeld’s Midnight Frolic,",Performing Arts,Bars,American (Traditional)",55,4,3.5,10001
+"1221 Avenue of the AmericasNew York, NY 10020",Del Frisco’s Double Eagle Steak House,",Steakhouses",1718,4,4.5,10001
+"125 W 44th StNew York, NY 10036",Hunt & Fish Club,",Seafood,Steakhouses,Breakfast & Brunch",139,4,3.5,10001
+"400 5th AveNew York, NY 10018","Langham Place, New York, Fifth Avenue",",Hotels",84,4,4.5,10001
+"315 W 36th StNew York, NY 10018",Staghorn Steakhouse,",Steakhouses",36,4,3,10001
+"40 W 39th StNew York, NY 10018",Rustico Cooking,",Italian,Cooking Schools",32,4,3.5,10001
+"108 W 39th StNew York, NY 10018",Sew Elegant,",Sewing & Alterations,Bridal",61,4,4,10001
+"56 9th AveNew York, NY 10011",Old Homestead Steak House,",Steakhouses",641,4,3.5,10001
+"417 5th AveNew York, NY 10016",Astro Gallery of Gems,",Jewelry,Home Decor,Museums",22,4,5,10001
+"240 W 47th StNew York, NY 10036",The Edison Ballroom,",Venues & Event Spaces,Buffets",21,4,4.5,10001
+"60 W 23rd StNew York, NY 10010",Le Restaurant d’Alex,",French",3,4,5,10001
+"528 W 28th StNew York, NY 10001",Robert’s Steakhouse,",Steakhouses",6,4,4,10001
+"250 9th AveNew York, NY 10001",Nucare Pharmacy & Surgical,",Drugstores,Home Health Care,Medical Supplies",8,4,5,10001
+"6 E 36th StNew York, NY 10016",Toledo Restaurant,",Spanish,Basque",32,4,3.5,10001
+"421 W 13th StNew York, NY 10014",Valbella,",Italian,Venues & Event Spaces,Steakhouses",134,4,4,10001
+"1535 Broadway, 47th & 48th FlrNew York, NY 10036",The View Restaurant & Lounge,",Lounges,American (New)",588,4,3,10001
+"122 W 26th StNew York, NY 10001",Once Upon A Bride,",Bridal,Hair Salons",7,4,4.5,10001
+"750 6th AvenueNew York, NY 10010",Verizon Wireless,",Mobile Phones,Mobile Phone Repair",43,4,4,10001
+"555 W 24th StNew York, NY 10011",Gagosian Gallery,",Art Galleries",31,4,4,10001
+"529 W 20th StNew York, NY 10011",Jonathan LeVine Gallery,",Art Galleries",19,4,4.5,10001
+"22 W 32nd StNew York, NY 10001",Saint Laurie Merchant Tailors,",Men's Clothing,Bespoke Clothing,Formal Wear",10,4,4.5,10001
+"59 W 22nd StNew York, NY 10010",L’Atelier Du Chocolat,",Chocolatiers & Shops,Desserts",22,4,4,10001
+"452 Fifth AveNew York, NY 10018",Kee’s Chocolates Midtown,",Chocolatiers & Shops",32,4,4,10001
+"36 W 34th StNew York, NY 10001",Essentia Mattress,",Mattresses,Home Decor",12,4,4,10001
+"160 Lexington AveNew York, NY 10016",Dover Street Market,",Accessories",45,4,4.5,10001
+"315 W 39th StNew York, NY 10018",NYARTMAN,",Tattoo",5,4,5,10001
+"525 W 19th StNew York, NY 10011",David Zwirner Gallery,",Art Galleries",42,4,4,10001
+"1123 BroadwayNew York, NY 10010",Le’Face Lash Boutique,",Eyelash Service",9,4,5,10001
+"W 35th StNew York, NY 10001",Rebagg,",Used, Vintage & Consignment",14,4,3.5,10001
+"369 W 34th StNew York, NY 10001",The Photo Village,",Photography Stores & Services",15,4,3.5,10001
+"533 9th AveNew York, NY 10018",Cafe Andalucia,",Tapas Bars",21,4,3,10001
+"337 W 30th StNew York, NY 10001",Kaptan’s Deck,",Bars,Barbeque",2,4,5,10001
+"315 5th AveNew York, NY 10016",Skin By Mamie,",Day Spas",16,4,4,10001
+"W 46th StreetNew York, NY 10036",The View / Marriott Marquis hotel,",Diners,Lounges",80,4,3,10001
+"520 W 22nd StNew York, NY 10011",Comme Des Garçons,",Women's Clothing,Men's Clothing,Accessories",32,4,3.5,10001
+"247 W 38th StNew York, NY 10018",Ron Ben-Israel Cakes,",Bakeries,Bridal",9,4,4,10001
+"225 W 34th St.New York, NY 10123",Cohen’s Fashion Optical,",Eyewear & Opticians,Optometrists",29,4,3.5,10001
+"130 W 23rd StreetNew York, NY 10011",Ceci New York,",Cards & Stationery",13,4,4.5,10001
+"210 W 29th StManhattan, NY 10001",Konstantine Furs,",Leather Goods",4,4,4.5,10001
+"355 W 16th StNew York, NY 10011",Electric Room,",Bars",47,4,3.5,10001
+"151 West 34th St 1st FlNew York, NY 10001",Louis Vuitton New York Macy’s Herald Sq.,",Leather Goods,Shoe Stores,Eyewear & Opticians",34,4,3,10001
+"508 W 26th StNew York, NY 10001",Greene Naftali,",Art Galleries",3,4,5,10001
+"545 W 25th StNew York, NY 10001",Marlborough Chelsea,",Art Galleries",5,4,5,10001
+"350 5th AvenueNew York, NY 10118",State,",American (Traditional)", ,4,5,10001
+"106 West 32nd StNew York, NY 10001",Christine Huber Design,",Jewelry",7,4,5,10001
+"137 W 25th StNew York, NY 10001",Diamond In the Rough,",Jewelry",2,4,5,10001
+"200 Madison AveNew York, NY 10016",Roche Bobois,",Interior Design,Furniture Stores",7,4,4,10001
+"531 W 24th StNew York, NY 10011",Luhring Augustine Gallery,",Art Galleries",6,4,4,10001
+"162 W 36th StNew York, NY 10018",Shindo,",Fabric Stores",4,4,4,10001
+"433 W 34th StNew York, NY 10001",David’s Tenth,",Delis",3,4,3,10001
+"200 5th AvenueNew York, NY 10010",Cipriani 23rd Street,",Caterers,Italian",2,4,4,10001
+"54 W 21st StNew York, NY 10010",Peak Performance Sports & Fitness Center,",Gyms,Trainers,Massage",6,4,4,10001
+"350 7th AveNew York, NY 10001",International Wine Center,",Specialty Schools,Beer, Wine & Spirits",3,4,4.5,10001
+"383 5th AvenueNew York, NY 10016",Superior leather NYC LLC,",Leather Goods,Dry Cleaning & Laundry,Sewing & Alterations",27,4,4,10001
+"44 W 47th StNew York, NY 10036",Best Watch Source,",Watches",8,4,5,10001
+"456 W 18th StNew York, NY 10011",Friedrich Petzel Gallery,",Art Galleries",5,4,4.5,10001
+"116 10th AveNew York, NY 10011",Avenue,",Lounges,Venues & Event Spaces",184,4,3,10001
+"1501 BroadwayNew York, NY 10036",Paramount Cafe,",Delis",4,4,3.5,10001
+"357 W 16th StNew York, NY 10011",No. 8,",American (New),Lounges",44,4,3,10001
+"1275 Broadway StNew York, NY 10001",Top Gun,",Leather Goods",3,4,4,10001
+"19 W 34th St, Ph FlNew York, NY 10001","Barbara Leibowitz, CPE",",Hair Removal",7,4,5,10001
+"293 10th AveNew York, NY 10001",Paul Kasmin Gallery,",Art Galleries",4,4,4,10001
+"236 5th AveNew York, NY 10001",Neon Fix,",Makeup Artists,Hair Extensions",2,4,5,10001
+"521 W 23rd StNew York, NY 10011",Steven Kasher Gallery,",Art Galleries",5,4,4,10001
+"901 Avenue Of The AmericasNew York, NY 10001",LensCrafters,",Eyewear & Opticians,Optometrists",24,4,3,10001
+"1095 Ave of the AmericasNew York, NY 10018",Tourneau - Bryant Park,",Watches,Watch Repair",16,4,4,10001
+"560 W 24th StNew York, NY 10011",C24 Gallery,",Art Galleries",2,4,5,10001
+"1441 BroadwayNew York, NY 10018",Stephen Seo,",Bespoke Clothing",2,4,5,10001
+"440 Park Ave SNew York, NY 10016",Park Avenue Audio,",Electronics,Home Theatre Installation",17,4,3,10001
+"231 10th AveNew York, NY 10011",Taglialatella Galleries,",Art Galleries",4,4,4,10001
+"126-128 W 18th StNew York, NY 10011",Rouge Tomate,",American (New)",3,4,5,10001
+"534 W 21st StreetNew York, NY 10011",Paula Cooper Galleries,",Art Galleries",6,4,3.5,10001
+"519 W 24th StNew York, NY 10011",Metro Pictures,",Art Galleries",6,4,3.5,10001
+"40 West 25th StNew York, NY 10010",Marie Robinson Salon,",Hair Extensions,Makeup Artists",11,4,4,10001
+"29 9th AveNew York, NY 10014",Soho House New York,",Hotels",8,4,4.5,10001
+"568 W 25th StManhattan, NY 10001",Leila Heller Gallery,",Art Galleries",2,4,5,10001
+"541 W 24th StNew York, NY 10001",Mary Boone Gallery,",Art Galleries",4,4,4,10001
+"521 W 26th StNew York, NY 10001",Benrubi Gallery,",Art Galleries",2,4,4.5,10001
+ ,Chefs Diet,",Food Delivery Services",31,4,2,10001
+"228 W 18th StNew York, NY 10011",Miya Shoji & Interiors,",Furniture Stores",2,4,5,10001
+"1026 6th AveNew York, NY 10018",Shasha Lee Exclusive,",Hair Extensions",8,4,3,10001
+"453 W 17th StNew York, NY 10011",1 OAK,",Dance Clubs,Lounges",266,4,2.5,10001
+"New York, NY 10001",BookAbottle,",Beer, Wine & Spirits,Party & Event Planning",3,4,5,10001
+"61 Delancey StNew York, NY 10002",Petee’s Pie Company,",Bakeries,Comfort Food,Coffee & Tea",241,1,4.5,10002
+"151 Ludlow StNew York, NY 10002",La Margarita,",Pizza,Sandwiches",168,1,4.5,10002
+"35 Orchard StNew York, NY 10002",Cheeky Sandwiches,",Sandwiches",699,1,4.5,10002
+"118 Eldridge StNew York, NY 10002",Shu Jiao Fu Zhou Cuisine Restaurant,",Chinese",247,1,4.5,10002
+"79 Chrystie StNew York, NY 10002",Wah Fung No. 1 Fast Food,",Chinese,Barbeque,Fast Food",543,1,4.5,10002
+"15 Essex StNew York, NY 10002",L.E.S kitchen,",Burgers,Sandwiches",106,1,4.5,10002
+"39 Essex StNew York, NY 10002",Old Man Hustle,",Cocktail Bars,Dive Bars,Comedy Clubs",107,1,4.5,10002
+"79 Delancey StNew York, NY 10002",goa taco,",Mexican,Vietnamese,Asian Fusion",238,1,4.5,10002
+"155 E BroadwayNew York, NY 10002",12 Corners,",Coffee & Tea",253,1,4.5,10002
+"120 Essex StNew York, NY 10002",Peasant Stock,",Soup",31,1,5,10002
+"109 Ludlow StNew York, NY 10002",Juicy Spot Cafe,",Juice Bars & Smoothies,Coffee & Tea,Ice Cream & Frozen Yogurt",271,1,4.5,10002
+"139 Essex StNew York, NY 10002",Patacon Pisao,",Venezuelan,Sandwiches",174,1,4.5,10002
+"51B Canal StNew York, NY 10002",Kopitiam,",Malaysian,Breakfast & Brunch,Singaporean",102,1,4.5,10002
+"251 E Houston StNew York, NY 10002",Gaia Italian Café,",Italian",673,1,4.5,10002
+"99 Rivington StNew York, NY 10002",Wolfnights,",Sandwiches",319,1,4,10002
+"27 Prince StNew York, NY 10012",Prince Street Pizza,",Pizza",661,1,4.5,10002
+"116 Suffolk StNew York, NY 10002",Spreadhouse Cafe,",Coffee & Tea,Cafes,Wine Bars",129,1,4.5,10002
+"144 E BroadwayNew York, NY 10002",Lam Zhou Handmade Noodle,",Chinese",859,1,4,10002
+"135 Ludlow StNew York, NY 10002",Creperie,",Creperies",403,1,4,10002
+"188 Allen StNew York, NY 10002",Cheese Grille,",American (Traditional),Sandwiches",245,1,4.5,10002
+"81 Orchard StNew York, NY 10002",Roasting Plant,",Coffee & Tea",218,1,4,10002
+"118A Eldridge StNew York, NY 10002",Vanessa’s Dumpling House,",Chinese",1796,1,4,10002
+"84 Rivington StNew York, NY 10002",Sweet Buttons Desserts,",Desserts,Bakeries,Coffee & Tea",178,1,4,10002
+"42 Canal StNew York, NY 10002",Ling Kee Beef Jerky,",Grocery,Chinese",100,1,4.5,10002
+"198 Mott StNew York, NY 10012",Parisi Bakery,",Bakeries,Sandwiches",290,1,4.5,10002
+"3 Clinton StNew York, NY 10002",Pause Cafe,",Moroccan,Cafes,Juice Bars & Smoothies",173,1,4.5,10002
+"120 Essex StNew York, NY 10002",Boubouki,",Greek,Food Stands",52,1,4.5,10002
+"13 Essex StNew York, NY 10002",Cafe Grumpy,",Coffee & Tea,Cafes,Bakeries",82,1,4.5,10002
+"68 Forsyth StNew York, NY 10002",Spicy Village,",Chinese",252,1,4,10002
+"At E Broadway and Rutgers StNew York, NY 10002",Rice Noodle Cart,",Food Stands",54,1,4.5,10002
+"243 Broome StNew York, NY 10002",Optimum Gourmet Deli,",Delis",17,1,5,10002
+"120 Essex StNew York, NY 10002",Ni Japanese Delicacies,",Japanese,Delis",30,1,4.5,10002
+"127 Stanton StNew York, NY 10002",Stanton Pizza,",Pizza,Italian",169,1,4.5,10002
+"137 Rivington StNew York, NY 10002",Mazeish Grill,",Persian/Iranian,Middle Eastern,Fast Food",97,1,4.5,10002
+"114 E 1st StNew York, NY 10009",Punjabi Grocery & Deli,",Indian,Grocery,Vegetarian",303,1,4.5,10002
+"145D Hester StNew York, NY 10002",Teado Tea Shop,",Coffee & Tea,Juice Bars & Smoothies",170,1,4,10002
+"89 Canal StNew York, NY 10002",Cup & Saucer,",Diners,Chinese",179,1,4,10002
+"118 Baxter StNew York, NY 10013",Kam Hing Coffee Shop,",Bakeries,Coffee & Tea",417,1,4.5,10002
+"369 Broome StNew York, NY 10013",Saigon Vietnamese Sandwich Deli,",Sandwiches,Vietnamese",490,1,4,10002
+"99 Allen StNew York, NY 10002",Round K,",Coffee & Tea,Breakfast & Brunch,Bagels",82,1,4.5,10002
+"198 Grand StNew York, NY 10013",Banh Mi Saigon,",Vietnamese,Sandwiches",1141,1,4,10002
+"27 Essex StNew York, NY 10002",China North Dumpling,",Chinese",201,1,4,10002
+"85 Eldridge St Lower ENew York, NY 10002",S Wan Cafe,",Cafes,Chinese",66,1,4,10002
+"56 Hester StNew York, NY 10002",Classic Coffee Shop,",Coffee & Tea",14,1,5,10002
+"25A Essex StNew York, NY 10002",Les Crêpes & Taqueria,",Mexican",30,1,4.5,10002
+"168 Ludlow StNew York, NY 10002",Taquitoria,",Mexican,Tex-Mex,Vegetarian",102,1,4.5,10002
+"143-A Mott StNew York, NY 10013",Golden Steamer,",Bakeries,Coffee & Tea",234,1,4,10002
+"23 Essex StNew York, NY 10002",Sam’s Spring Roll,",Asian Fusion",66,1,4.5,10002
+"51 Chrystie StNew York, NY 10002",Yaya Tea Garden,",Coffee & Tea,Japanese",304,1,4,10002
+"23 Clinton StNew York, NY 10002",Boba Guys,",Coffee & Tea,Bubble Tea",235,1,4,10002
+"26 Eldridge StNew York, NY 10002",Super Taste,",Chinese",334,1,4,10002
+"174 Delancey StNew York, NY 10002","Empanadas, Son!",",Argentine,Empanadas,Soup",67,1,4.5,10002
+"111 Bowery StNew York, NY 10002",Kam Boat Bakery & Cafe,",Bakeries,Cafes",34,1,4.5,10002
+"83 Baxter StNew York, NY 10013",Breakroom,",Burgers,Mexican",987,1,4.5,10002
+"129 Rivington StNew York, NY 10002",Tiny’s Giant Sandwich Shop,",Sandwiches",378,1,4,10002
+"73 Chrystie StNew York, NY 10002",Kung Fu Tea,",Coffee & Tea,Bubble Tea",318,1,4,10002
+"228 Mott StNew York, NY 10012",Gimme! Coffee,",Coffee & Tea",262,1,4,10002
+"20 1st AveNew York, NY 10003",V-Nam Cafe,",Vietnamese,Sandwiches,Coffee & Tea",303,1,4,10002
+"87 Chrystie StNew York, NY 10002",Pho Vietnam 87,",Vietnamese",210,1,4,10002
+"353 Grand StNew York, NY 10002",Golden Forest,",Chinese",70,1,4,10002
+"55 Spring StNew York, NY 10012",Eight Turn Crêpe,",Creperies",506,1,4,10002
+"182 Allen StNew York, NY 10002",Konditori,",Coffee & Tea,Scandinavian",108,1,4,10002
+"172 Rivington StNew York, NY 10002",Black Cat LES,",Coffee & Tea,Breakfast & Brunch",120,1,4,10002
+"105 Canal StNew York, NY 10002",Off The Bridge,",Coffee & Tea,Bike Repair/Maintenance",24,1,5,10002
+"45 Spring StNew York, NY 10012",Taim Falafel,",Falafel",305,1,4,10002
+"78 E 1st StNew York, NY 10009",Cafe Himalaya,",Asian Fusion,Himalayan/Nepalese,Vegetarian",433,1,4,10002
+"123 Essex StNew York, NY 10002",Essex Taqueria,",Mexican",116,1,4,10002
+"277 Grand StNew York, NY 10002",Pho Grand,",Vietnamese",619,1,3.5,10002
+"13 Essex StNew York, NY 10002",Cabalito,",Salvadoran",67,1,4,10002
+"236 E 3rd StNew York, NY 10009",Nuyorican Poets Cafe,",Bars,Performing Arts",212,1,4.5,10002
+"248 Broome StNew York, NY 10002",Erin McKenna’s Bakery,",Bakeries,Vegan,Gluten-Free",900,1,3.5,10002
+"25 Ave ANew York, NY 10009",Tacos Morelos,",Mexican,Street Vendors",109,1,4,10002
+"124 E 4th StNew York, NY 10003",Tac N Roll,",Asian Fusion,Mexican",41,1,5,10002
+"28 Forsyth StNew York, NY 10002",Lao Di Fang,",Chinese",49,1,4,10002
+"138 Ludlow StNew York, NY 10002",Local 138,",Bars",206,1,4,10002
+"135 Grand StNew York, NY 10013",Café Integral,",Coffee & Tea",45,1,4.5,10002
+"283 E Houston StNew York, NY 10002",Heaven’s Hot Bagel,",Bagels,Delis,Breakfast & Brunch",109,1,4,10002
+"105 Clinton StNew York, NY 10002",Nonna’s L E S Pizzeria,",Italian,Pizza,Sandwiches",156,1,4,10002
+"126 Crosby StNew York, NY 10012",Housing Works Bookstore Café,",Bookstores,Cafes",452,1,4.5,10002
+"21 Essex StNew York, NY 10002",Clockwork Bar,",Dive Bars",28,1,4.5,10002
+"153 Essex StNew York, NY 10002",Two Bit’s Retro Arcade,",Arcades,Dive Bars",176,1,4,10002
+"132 Ludlow StNew York, NY 10002",Iggy’s Keltic Lounge,",Dive Bars,Pubs",159,1,4,10002
+"58 Henry StNew York, NY 10002",Sun Hing Lung Co,",Chinese",64,1,4.5,10002
+"92 Rivington StNew York, NY 10002",Mimi & Coco NY,",Japanese,Comfort Food",105,1,4,10002
+"26 Rutgers StNew York, NY 10002",Mee Cafe,",Coffee & Tea,Cafes",41,1,4.5,10002
+"127 Rivington StNew York, NY 10002",The Falafel Shop,",Cafes,Sandwiches,Falafel",131,1,4,10002
+"152 Ludlow StNew York, NY 10002",Cake Shop,",Coffee & Tea,Bars,Music Venues",271,1,3.5,10002
+"230 Grand StNew York, NY 10013",Tung Woo Co,",Desserts,Chinese",44,1,4,10002
+"121 Mott StNew York, NY 10013",12 Corners,",Coffee & Tea",80,1,4.5,10002
+"205 Allen StNew York, NY 10002",Vivi Bubble Tea,",Bubble Tea,Desserts,Cafes",89,1,4,10002
+"48 Mulberry StNew York, NY 10013",Sharkey’s Cafe,",Coffee & Tea,Sandwiches,Breakfast & Brunch",82,1,4.5,10002
+"95 Allen StNew York, NY 10002",Empanada Mama,",Colombian,Empanadas",191,1,3.5,10002
+"123 Essex StNew York, NY 10002",Hakki Champion Pizza,",Pizza,Food",49,1,4,10002
+"36A Ave ANew York, NY 10009",Native Bean,",Coffee & Tea,Bagels",37,1,4.5,10002
+"63 E 4th StNew York, NY 10003",Miscelanea NY,",Coffee & Tea,Mexican,Sandwiches",46,1,5,10002
+"7 Ave ANew York, NY 10009",The Library,",Dive Bars",322,1,4,10002
+"26 Jefferson StNew York, NY 10002",Iguazu Cafe & Grill,",Latin American",29,1,4,10002
+"124 Hester StNew York, NY 10002",Cong Ly Restaurant,",Vietnamese",230,1,4,10002
+"229 Elizabeth StNew York, NY 10012",Habana To-Go,",Mexican,Cuban",245,1,4,10002
+"85 Stanton StNew York, NY 10002",RISE Coffee,",Coffee & Tea",12,1,5,10002
+"102 Norfolk StNew York, NY 10002",La Contenta,",Mexican,Bars,Breakfast & Brunch",238,2,4.5,10002
+"79 Orchard StNew York, NY 10002",Cafe Katja,",Pubs,German,Austrian",595,2,4.5,10002
+"379 Grand StNew York, NY 10002",Doughnut Plant,",Donuts,Coffee & Tea",2686,2,4.5,10002
+"181 Essex StNew York, NY 10002",Benson’s NYC,",Breakfast & Brunch,Burgers,American (Traditional)",151,2,4.5,10002
+"250 Broome StNew York, NY 10002",Kottu House,",Sri Lankan",125,2,4.5,10002
+"61 Delancey StNew York, NY 10002",Cocoron,",Japanese",725,2,4,10002
+"249 Broome StNew York, NY 10002",Zest,",Sushi Bars,Japanese,Thai",483,2,4,10002
+"139 Chrystie StNew York, NY 10002",The Boil,",Cajun/Creole,Seafood,Wine Bars",1173,2,4.5,10002
+"124 Ludlow StNew York, NY 10002",Caffe Vita,",Coffee & Tea",127,2,4.5,10002
+"179 E Houston StNew York, NY 10002",Russ & Daughters,",Seafood Markets,Sandwiches,Bagels",1206,2,4.5,10002
+"130 Division StNew York, NY 10002",Kiki’s,",Greek,Salad",160,2,4.5,10002
+"172 Allen StNew York, NY 10002",Bluestockings,",Coffee & Tea,Bookstores",122,2,4.5,10002
+"120 Rivington StNew York, NY 10002",Nitecap,",Cocktail Bars",153,2,4.5,10002
+"179 Essex StNew York, NY 10002",The MasalaWala,",Indian,Pakistani",748,2,4.5,10002
+"17 Clinton StNew York, NY 10002",Rizzo’s Fine Pizza Co.,",Pizza",361,2,4.5,10002
+"127 Orchard StNew York, NY 10002",Russ & Daughters Cafe,",Breakfast & Brunch,Seafood",360,2,4,10002
+"100 StantonNew York, NY 10002",El Rey Coffee And Luncheonette,",Coffee & Tea,American (New)",154,2,4.5,10002
+"106 Norfolk StNew York, NY 10002",Sunita Bar,",Bars",122,2,4.5,10002
+"285 Grand StNew York, NY 10002",99 Favor Taste,",Chinese,Hot Pot,Barbeque",794,2,4,10002
+"63 Delancey StNew York, NY 10002",Berkli Parc Cafe,",Coffee & Tea,Sandwiches,Salad",317,2,4,10002
+"303 Broome StNew York, NY 10002",Louie and Chan,",Italian,Lounges,Cocktail Bars",151,2,4,10002
+"162 Orchard StNew York, NY 10002",Wassail,",American (New),Cocktail Bars",135,2,4,10002
+"196 Allen StNew York, NY 10002",Rockwood Music Hall,",Music Venues,Bars",343,2,4.5,10002
+"253 Broome StNew York, NY 10002",Barrio Chino,",Mexican,Bars",878,2,4,10002
+"42 Rivington StNew York, NY 10002",Jadis,",French,Wine Bars",411,2,4,10002
+"351 Broome StNew York, NY 10013",Piacere,",Pizza,Italian",427,2,4,10002
+"379 Broome StNew York, NY 10013",Greecologies,",Juice Bars & Smoothies,Ice Cream & Frozen Yogurt,Greek",183,2,4.5,10002
+"84 Stanton StNew York, NY 10002",The Meatball Shop,",Italian,American (Traditional)",2410,2,4,10002
+"26 Clinton StNew York, NY 10002",Koneko,",Cafes,Pet Adoption,Art Galleries",73,2,4.5,10002
+"178 Ludlow StNew York, NY 10002",Sweet Chick,",Southern",599,2,4,10002
+"127 Ludlow StNew York, NY 10002",Set L.E.S.,",Gastropubs,Asian Fusion,American (New)",89,2,4.5,10002
+"110 Rivington StNew York, NY 10002",Verlaine,",Tapas/Small Plates,Lounges",1126,2,4,10002
+"96 Orchard StNew York, NY 10002",Excuse My French,",Bars,Tapas Bars,French",45,2,4.5,10002
+"121 Essex StNew York, NY 10002",The Whiskey Ward,",Bars",244,2,4,10002
+"231 Eldridge StNew York, NY 10002",Spaghetti Incident,",Italian,Breakfast & Brunch,Salad",157,2,4.5,10002
+"123 Allen StNew York, NY 10002",Antler Beer And Wine Dispensary,",Wine Bars,Beer Bar",54,2,4.5,10002
+"156 Mott StNew York, NY 10013",Nolita Mart & Espresso Bar,",Coffee & Tea,Cafes,Specialty Food",137,2,4.5,10002
+"121 Ludlow StNew York, NY 10002",Amuse Wine Bar,",Tapas/Small Plates,Wine Bars,Venues & Event Spaces",71,2,4.5,10002
+"85 Orchard StNew York, NY 10002",Dudleys,",Cafes",276,2,4,10002
+"131 Orchard StNew York, NY 10002",Black Tree,",American (New)",326,2,4,10002
+"115 Allen StNew York, NY 10002",Hill and Dale,",Bars,American (New)",257,2,4,10002
+"205 E Houston StNew York, NY 10002",Katz’s Delicatessen,",Delis,Sandwiches",6971,2,4,10002
+"53 Delancey StNew York, NY 10002",Doka Square,",Asian Fusion,Bars",22,2,4.5,10002
+"233 E 4th StNew York, NY 10009",Matcha Cafe Wabi,",Coffee & Tea",89,2,5,10002
+"173 Mott StNew York, NY 10013",Pepe Rosso Social,",Italian",433,2,4,10002
+"66 Rivington StNew York, NY 10002",Marshall Stack,",Bars",203,2,4,10002
+"408 Broome StNew York, NY 10013",Despaña,",Spanish,Basque,Grocery",375,2,4.5,10002
+"67 Clinton StNew York, NY 10002",Garfunkel’s,",Cocktail Bars",29,2,4.5,10002
+"131 1/2 Chrystie StNew York, NY 10002",Fig 19,",Lounges",152,2,4,10002
+"132A Eldridge StNew York, NY 10002",Ghost,",Lounges",65,2,4,10002
+"197 Grand StNew York, NY 10013",Margherita NYC,",Italian,Pizza",103,2,4.5,10002
+"161 E Houston StNew York, NY 10002",Mezetto,",Mediterranean,Middle Eastern,Seafood",334,2,4,10002
+"120 Essex StNew York, NY 10002",Shopsin’s,",Diners",599,2,4,10002
+"65 Rivington StNew York, NY 10002",Miller’s Near & Far,",American (New),Bars,Burgers",101,2,4,10002
+"1 Delancey StNew York, NY 10002",Sel Rrose,",Cocktail Bars,Seafood,Cafes",206,2,4,10002
+"211 E 4th StNew York, NY 10009",bibi,",Wine Bars",102,2,4.5,10002
+"52 Prince StNew York, NY 10012",McNally Jackson,",Bookstores,Coffee & Tea",352,2,4.5,10002
+"189 E BroadwayNew York, NY 10002",Cafe Petisco,",Breakfast & Brunch,Coffee & Tea,Sandwiches",242,2,4,10002
+"116 Stanton StNew York, NY 10002",Souvlaki GR,",Greek",516,2,4,10002
+"68 Clinton StNew York, NY 10002",Pig and Khao,",Filipino,Thai,Asian Fusion",780,2,4,10002
+"239 E 5th StNew York, NY 10003",Coffee Project New York,",Coffee & Tea",144,2,5,10002
+"4 Clinton StNew York, NY 10002",Clinton Street Baking Company,",Breakfast & Brunch",3140,2,4,10002
+"79 Baxter StNew York, NY 10013",Whiskey Tavern,",Bars",542,2,4.5,10002
+"177 Henry StNew York, NY 10002",Les Enfants de Boheme,",French,Cafes,Cocktail Bars",65,2,4.5,10002
+"154 Orchard StNew York, NY 10002",Red Compass,",Mediterranean,Modern European,Wine Bars",46,2,4.5,10002
+"247 Broome StNew York, NY 10002",The Ten Bells,",Wine Bars,Tapas Bars",345,2,4,10002
+"247 Elizabeth StNew York, NY 10012",T Shop,",Coffee & Tea,Tea Rooms",28,2,5,10002
+"17 Stanton StNew York, NY 10002",Bonnie Vee,",Cocktail Bars",73,2,4,10002
+"17 Prince StNew York, NY 10012",Cafe Habana,",Cuban,Mexican",2704,2,4,10002
+"235 Mulberry StNew York, NY 10012",Rubirosa,",Italian,Pizza",927,2,4,10002
+"380 Broome StNew York, NY 10013",LuAnne’s Wild Ginger All-Asian Vegan,",Vegetarian,Asian Fusion,Vegan",492,2,4,10002
+"221 E BroadwayNew York, NY 10002",Eastwood,",Bars,American (Traditional)",90,2,4,10002
+"202 Mott StNew York, NY 10012",Balzem,",Mediterranean,Tapas/Small Plates,Wine Bars",173,2,4,10002
+"35 Canal StNew York, NY 10002",Clandestino,",Wine Bars",94,2,4,10002
+"37 Kenmare StNew York, NY 10012",Cocoron,",Japanese,Do-It-Yourself Food",380,2,4,10002
+"371 Broome StNew York, NY 10013",Oficina 1000Miglia,",Italian,Wine Bars,Cafes",64,2,4.5,10002
+"188 Suffolk StNew York, NY 10002",Subject,",Cocktail Bars",93,2,4.5,10002
+"106 Norfolk StNew York, NY 10002",Nurse Bettie,",Bars",234,2,4,10002
+"270 Lafayette StNew York, NY 10012",La Colombe Coffee,",Coffee & Tea",526,2,4.5,10002
+"191 Chrystie StNew York, NY 10002",Freemans,",Breakfast & Brunch,American (New),Lounges",1505,2,4,10002
+"219 Mulberry StNew York, NY 10012",Ruby’s Cafe,",Burgers,Coffee & Tea,Breakfast & Brunch",610,2,4,10002
+"79 Bayard StNew York, NY 10013",Sun’s Organic Garden,",Coffee & Tea,Grocery",84,2,4.5,10002
+"10 Delancey StNew York, NY 10002",One Mile House,",Bars,American (Traditional)",156,2,4,10002
+"138 Division StNew York, NY 10002",Forgtmenot,",Burgers,Fast Food",96,2,4,10002
+"292 Elizabeth StNew York, NY 10012",Siggy’s Good Food,",Mediterranean,Vegan",375,2,4.5,10002
+"120 Essex StNew York, NY 10002",Nordic Preserves Fish and Wildlife Company,",Scandinavian",13,2,5,10002
+"190 E 2nd StNew York, NY 10009",Il Posto Accanto,",Italian,Wine Bars",94,2,4.5,10002
+"185 Orchard StNew York, NY 10002",Claw Daddy’s,",Cajun/Creole,Seafood",406,2,4,10002
+"245 Eldridge StNew York, NY 10002",Bar Goto,",Cocktail Bars,Japanese",71,2,4.5,10002
+"394 Broome StNew York, NY 10013",Happy Bones NYC,",Coffee & Tea",172,2,4,10002
+"95 1st AveNew York, NY 10003",Upstate,",Seafood",1182,2,4.5,10002
+"112 Suffolk StNew York, NY 10002",Antibes Bistro,",French,Jazz & Blues,Mediterranean",386,2,4,10002
+"32 Spring StNew York, NY 10012",Lombardi’s Pizza,",Pizza",4758,2,4,10002
+"100 Allen StNew York, NY 10002",Congee Village,",Chinese",1096,2,3.5,10002
+"151 Elizabeth StNew York, NY 10012",Egg Shop,",Breakfast & Brunch,Sandwiches",408,2,4,10002
+"100 Kenmare StNew York, NY 10012",sweetgreen,",Salad,Vegetarian",123,2,4,10002
+"194 Grand StNew York, NY 10013",Hometown Hotpot & BBQ,",Hot Pot,Barbeque",351,2,4,10002
+"131 Rivington StNew York, NY 10002",Schiller’s Liquor Bar,",Breakfast & Brunch,American (Traditional),Bars",769,2,3.5,10002
+"26 1st AveNew York, NY 10009",Spiegel,",American (New),Bars,Breakfast & Brunch",162,2,4,10002
+"198 Allen StNew York, NY 10002",Pala,",Pizza,Italian,Gluten-Free",520,2,4,10002
+"134 Eldridge StNew York, NY 10002",Attaboy,",Bars",283,3,4,10002
+"152 Stanton StNew York, NY 10002",Balvanera,",Argentine",111,3,4.5,10002
+"157 Allen StNew York, NY 10002",Copper & Oak,",Lounges",53,3,4.5,10002
+"157 Ludlow StNew York, NY 10002",SakaMai,",Japanese,Tapas/Small Plates,Cocktail Bars",359,3,4,10002
+"86 Allen StNew York, NY 10002",Dirt Candy,",Vegetarian,Vegan",233,3,4,10002
+"23 Ave ANew York, NY 10009",Yerba Buena,",Latin American,Spanish,Caribbean",749,3,4.5,10002
+"151 Rivington StNew York, NY 10002",Yopparai,",Japanese",116,3,4.5,10002
+"146 Essex StNew York, NY 10002",Beauty & Essex,",Bars,American (New),Tapas/Small Plates",2092,3,4,10002
+"99 Stanton StNew York, NY 10002",The Stanton Social,",Tapas/Small Plates,Lounges",2335,3,4,10002
+"138 Orchard StNew York, NY 10002",Contra,",American (New)",167,3,4,10002
+"136 Division StNew York, NY 10002",Bacaro,",Italian",314,3,4,10002
+"265 Elizabeth StNew York, NY 10012",The Musket Room,",American (New),Cocktail Bars",226,3,4.5,10002
+"157 Chrystie StNew York, NY 10002",Sammy’s Roumanian Steakhouse,",Steakhouses",283,3,4,10002
+"40 Rivington StNew York, NY 10002",Gentleman Farmer,",American (New),French",181,3,4,10002
+"199 BoweryNew York, NY 10002",Vandal,",Tapas Bars,Lounges",286,3,4,10002
+"7 Spring StNew York, NY 10012",Uncle Boons,",Thai",311,3,4,10002
+"22 Orchard StNew York, NY 10002",Fung Tu,",Asian Fusion,Chinese",136,3,4,10002
+"17 Orchard StNew York, NY 10002",The Fat Radish,",British,Wine Bars",435,3,3.5,10002
+"57 Great Jones StNew York, NY 10012",Bohemian Restaurant,",Japanese",475,3,4.5,10002
+"187 Orchard StNew York, NY 10002",Blue Ribbon Sushi Izakaya,",Asian Fusion,Sushi Bars,Breakfast & Brunch",320,3,4,10002
+"212 E BroadwayNew York, NY 10002",Rawsome Treats,",Desserts,Live/Raw Food",14,3,4.5,10002
+"180 Ludlow StNew York, NY 10002",Dirty French,",French",273,3,4,10002
+"342 E 6th StNew York, NY 10003",The Eddy,",American (New)",242,3,4.5,10002
+"210 Elizabeth StNew York, NY 10012",Public,",American (Traditional),Australian",933,3,4,10002
+"9 E 1st StNew York, NY 10003",Bowery Meat Company,",Steakhouses,Seafood",187,3,4,10002
+"100B Forsyth StNew York, NY 10002",Birds & Bubbles,",Southern",186,3,3.5,10002
+"14 1st AveNew York, NY 10009",Lucien,",French,Wine Bars",237,3,4,10002
+"249 Ctr StNew York, NY 10013",Compagnie des Vins Surnaturels,",Wine Bars,French,American (New)",54,3,4.5,10002
+"194 Elizabeth StNew York, NY 10012",Peasant,",Italian",559,3,3.5,10002
+"13 E 1st StNew York, NY 10003",L’Apicio,",Italian,Wine Bars",306,3,4,10002
+"275 Mulberry StNew York, NY 10012",Chefs Club by Food & Wine,",Wine Bars,American (New)",226,3,4,10002
+"128 E 7th StNew York, NY 10009",Pylos,",Greek",865,3,4.5,10002
+"214 Mulberry StNew York, NY 10012",Balaboosta,",Mediterranean",476,3,4,10002
+"218 Lafayette StNew York, NY 10012",Osteria Morini,",Italian",760,3,4,10002
+"54 E 1st StNew York, NY 10003",Prune,",American (New),Breakfast & Brunch",848,3,4,10002
+"142 Orchard StNew York, NY 10002",Wildair,",American (New)",60,3,4,10002
+"536 E 5th StNew York, NY 10009",Tuome,",American (New)",180,3,4,10002
+"222 Lafayette StNew York, NY 10012",Ed’s Lobster Bar,",Seafood,Bars",700,3,4,10002
+"245 BoweryNew York, NY 10002",Cata Restaurant,",Tapas Bars,Tapas/Small Plates,Spanish",216,3,4,10002
+"545 E 5th StNew York, NY 10009",Lavagna Restaurant,",Italian",273,3,4,10002
+"80 Spring StNew York, NY 10012",Balthazar Restaurant,",French,Breakfast & Brunch",2160,3,4,10002
+"9 Doyers StNew York, NY 10013",Apothéke,",Lounges,Cocktail Bars",1091,3,4,10002
+"218 BoweryNew York, NY 10012",Rebelle,",French",106,3,4,10002
+"108 E 4th StNew York, NY 10003",Wasan,",Japanese,Tapas/Small Plates",150,3,4,10002
+"220 BoweryNew York, NY 10012",Pearl & Ash,",American (New)",242,3,3.5,10002
+"282 BoweryNew York, NY 10012",Cherche Midi,",French",194,3,4,10002
+"146 Mulberry StNew York, NY 10013",Angelo’s,",Italian",290,3,4,10002
+"252 Broome StNew York, NY 10002",The Lucky Bee,",Thai,Asian Fusion,Cocktail Bars",52,3,4,10002
+"101 Stanton StNew York, NY 10002",Prema,",Hair Salons",44,3,5,10002
+"316 BoweryNew York, NY 10012",Saxon + Parole,",American (New),Bars",558,3,4,10002
+"239 E 5th StNew York, NY 10003",Degustation,",French,American (New),Spanish",559,3,4,10002
+"324 Lafayette StNew York, NY 10012",Gato,",Mediterranean,Spanish,Bars",661,3,4,10002
+"177 Chrystie StNew York, NY 10002",Le Turtle,",Modern European,French",34,3,4,10002
+"122 E 7th StNew York, NY 10009",Desnuda,",Seafood,Latin American,Wine Bars",325,3,4,10002
+"47 Bond StNew York, NY 10012",Il Buco,",Italian,American (New)",430,3,4,10002
+"47 E Houston StNew York, NY 10012",Estela,",American (New),Breakfast & Brunch",260,3,4,10002
+"299 BoweryNew York, NY 10003",DBGB Kitchen and Bar,",Gastropubs",1256,3,3.5,10002
+"119 1st AveNew York, NY 10003",Oiji,",Korean",201,3,4.5,10002
+"96 2nd AveNew York, NY 10003",The Mermaid Inn,",Seafood",978,3,4,10002
+"151 Essex StManhattan, NY 10002",Tijuana Picnic,",Mexican,Bars",111,3,3.5,10002
+"433 E 6th StNew York, NY 10009",Death & Co,",Lounges,Cocktail Bars",1159,3,4,10002
+"130 E 7th StNew York, NY 10009",Avant Garden,",American (New),Vegan,Vegetarian",82,3,4,10002
+"55 E Houston StNew York, NY 10012",Emilio’s Ballato,",Italian",134,3,4,10002
+"149 Mulberry StNew York, NY 10013",Mulberry Project,",Lounges",381,3,3.5,10002
+"125 Mulberry StNew York, NY 10013",IL Cortile,",Italian",287,3,3.5,10002
+"284 Mulberry StNew York, NY 10012",Socarrat Paella Bar,",Spanish,Tapas Bars,Seafood",291,3,3.5,10002
+"513 E 6th StNew York, NY 10009",Buenos Aires,",Argentine",332,3,4,10002
+"304 E 6th StNew York, NY 10003",Mayahuel,",Mexican,Cocktail Bars",477,3,4,10002
+"36 E 4th StNew York, NY 10003",Aroma Kitchen & Winebar,",Italian,Wine Bars",268,3,4,10002
+"187 Mulberry StNew York, NY 10012",Pasquale Jones,",Italian,Pizza",26,3,4,10002
+"6 Bond StNew York, NY 10012",BondSt,",Japanese,Sushi Bars",684,3,4,10002
+"74 Orchard StNew York, NY 10002",By Robert James,",Men's Clothing",30,3,4.5,10002
+"180 Orchard StNew York, NY 10002",Mr. Purple,",Lounges",103,3,3.5,10002
+"157 Orchard StNew York, NY 10002",Self Edge,",Men's Clothing",43,3,4,10002
+"142 Mercer StNew York, NY 10012",Lure Fishbar,",Seafood",1166,3,4,10002
+"450 BroadwayNew York, NY 10013",Proper Cloth,",Men's Clothing,Bespoke Clothing,Formal Wear",315,3,5,10002
+"109 1st AveNew York, NY 10003",SenYa,",Japanese",105,3,4,10002
+"202A Mott StNew York, NY 10012",Stick With Me,",Chocolatiers & Shops,Desserts",111,3,4.5,10002
+"144 Orchard StNew York, NY 10002",Epaulet Shop,",Men's Clothing",17,3,5,10002
+ ,Melissa’s Creation,",Wedding Planning,Videographers,Florists",38,3,5,10002
+"144 Orchard StNew York, NY 10002",Epaulet Shop,",Men's Clothing",17,3,5,10002
+ ,Melissa’s Creation,",Wedding Planning,Videographers,Florists",38,3,5,10002
+"325 BoweryNew York, NY 10003",Bar Primi,",Italian",239,3,3.5,10002
+"128 1st AveNew York, NY 10009",Noreetuh,",American (New),Hawaiian",194,3,4,10002
+"109 St Marks PlNew York, NY 10009",Timna,",Mediterranean,American (New)",126,3,4.5,10002
+"30 Kenmare StNew York, NY 10012",The Nolitan Hotel,",Hotels",62,3,4.5,10002
+"113 St Marks PlNew York, NY 10009",Please Don’t Tell,",Lounges",1347,3,4,10002
+"28 Mott StNew York, NY 10013",Peking Duck House,",Chinese",554,3,3.5,10002
+"102 Ave CNew York, NY 10009",Edi & the Wolf,",German",324,3,4,10002
+"53 Great Jones StNew York, NY 10012",Il Buco Alimentari & Vineria,",Italian",374,3,3.5,10002
+"69 Orchard StreetNew York, NY 10002",Zarin Fabrics,",Fabric Stores,Shades & Blinds,Home Decor",36,3,4.5,10002
+"190 Allen StNew York, NY 10002",Above Allen,",Lounges",71,3,3,10002
+"65 2nd Ave.New York, NY 10003",00+Co,",Pizza,Vegan,Wine Bars",76,3,4,10002
+"72 Kenmare StNew York, NY 10012",Yakitori Tora,",Tapas/Small Plates,Japanese,Barbeque",29,3,4,10002
+"335 BoweryNew York, NY 10003",The Bowery Hotel Lobby Bar and Lounge,",Lounges",134,3,3.5,10002
+"148 Orchard StNew York, NY 10002",Invisible NYC,",Tattoo",32,3,4.5,10002
+"77 W Houston StNew York, NY 10012",Pegu Club,",Lounges,Cocktail Bars",856,3,4,10002
+"57 Great Jones StNew York, NY 10012",Japan Premium Beef,",Meat Shops",64,3,5,10002
+"47 2nd AveNew York, NY 10003",New York Adorned,",Jewelry,Tattoo,Piercing",338,3,4.5,10002
+"294 Elizabeth StNew York, NY 10012",Arte Salon,",Hair Salons",105,3,4.5,10002
+"8 Extra PlNew York, NY 10003",Momofuku Ko,",American (New)",113,4,4.5,10002
+"91 Clinton StNew York, NY 10002",New York Sushi Ko,",Sushi Bars,Japanese",53,4,4,10002
+"308 BoweryNew York, NY 10012",Duane Park,",American (New),Jazz & Blues,Venues & Event Spaces",186,4,4,10002
+"130 St Marks PlNew York, NY 10009",Kura,",Japanese,Sushi Bars",231,4,4.5,10002
+"94 E 7th StNew York, NY 10009",Kyo Ya,",Japanese",356,4,4.5,10002
+"110 1st AveNew York, NY 10009",Sushi Dojo NYC,",Sushi Bars,Japanese",203,4,4,10002
+"239 E 5th StNew York, NY 10003",Jewel Bako,",Sushi Bars,Japanese",396,4,4,10002
+"123 Norfolk StNew York, NY 10002",Maryam Nassir Zadeh,",Women's Clothing,Jewelry,Home Decor",16,4,4,10002
+"6 E 2nd StNew York, NY 10003",John Derian,",Home Decor",15,4,4.5,10002
+"261 Water StNew York, NY 10038",MarkJoseph Steakhouse,",Steakhouses",259,4,4,10002
+"82 Orchard StNew York, NY 10002",Christine Chin,",Day Spas,Skin Care,Hair Removal",81,4,3.5,10002
+"62 Rivington StNew York, NY 10002",Inkline Studio,",Tattoo",10,4,4,10002
+"147 Mercer StNew York, NY 10012",The Mercer Hotel,",Hotels",50,4,4.5,10002
+"225 Mott StNew York, NY 10012",Lord Willy’s,",Men's Clothing",18,4,4.5,10002
+"189 Chrystie StNew York, NY 10002",The Box,",Cocktail Bars",239,4,3,10002
+"171 East BroadwayManhattan, NY 10002",Limited Time Only,",American (New)",13,4,3,10002
+"209 Elizabeth StNew York, NY 10012",Elizabeth Street Gallery,",Antiques",15,4,4,10002
+"195 BoweryNew York, NY 10002",Pop International Galleries,",Art Galleries",6,4,4.5,10002
+"131 Allen StNew York, NY 10002",Bitforms Gallery,",Art Galleries",3,4,5,10002
+"175 Stanton StNew York, NY 10002",Chari & Co NYC,",Bikes,Men's Clothing,Accessories",24,4,3.5,10002
+"116 Greene StNew York, NY 10012",Louis Vuitton New York SoHo,",Leather Goods,Men's Clothing,Shoe Stores",62,4,4,10002
+"164 Ludlow StNew York, NY 10002",ODD.,",Women's Clothing,Men's Clothing,Accessories",4,4,5,10002
+"575 BroadwayNew York, NY 10012",Prada Broadway,",Shoe Stores,Leather Goods",84,4,3.5,10002
+"161 Mercer StNew York, NY 10012",Marni USA Store,",Shoe Stores,Women's Clothing",10,4,4.5,10002
+"356 BoweryNew York, NY 10003",Antik,",Lounges",20,4,3,10002
+"115 Spring StNew York, NY 10012",Opera Gallery,",Art Galleries",11,4,4.5,10002
+"122 Greene StNew York, NY 10012",Wolford Boutique,",Women's Clothing,Lingerie",11,4,4.5,10002
+"97 Kenmare StNew York, NY 10012",Storefront For Art and Architecture,",Art Galleries",7,4,4.5,10002
+"94 Grand StNew York, NY 10013",If Boutique,",Men's Clothing,Women's Clothing",16,4,4.5,10002
+"133 Eldridge StNew York, NY 10002",Woodward Gallery,",Art Galleries",3,4,4.5,10002
+"19 Kenmare StNew York, NY 10012",Lil Charlie’s,",Venues & Event Spaces,Lounges",10,4,2.5,10002
+"54 Greene StNew York, NY 10013",AFA,",Art Galleries",10,4,4.5,10002
+"265 LafayetteNew York, NY 10012",Saint Ambroeus Soho,",Breakfast & Brunch",4,4,3.5,10002
+"70 Kenmare StNew York, NY 10012",Duncan Quinn,",Men's Clothing",3,4,5,10002
+"15 Mercer StManhattan, NY 10013",3x1,",Men's Clothing,Women's Clothing,Bespoke Clothing",17,4,4,10002
+"201 Chrystie StNew York, NY 10002",Lehmann Maupin Gallery,",Art Galleries",5,4,4.5,10002
+"328 Broome StNew York, NY 10002",Bang Bang Tattoos,",Piercing,Tattoo",14,4,4,10002
+"104 Ave BNew York, NY 10009",SOS Chefs,",Home & Garden",25,4,4,10002
+"177 E Houston StNew York, NY 10002",Burkina Entertainment,",Music & DVDs",4,4,4.5,10002
+"257 BoweryNew York, NY 10002",Sperone Westwater,",Art Galleries",4,4,4.5,10002
+"134 Spring StNew York, NY 10012",Mulberry,",Fashion",13,4,4,10002
+"97 Greene StNew York, NY 10012",Tiffany & Co,",Jewelry",31,4,3.5,10002
+"121 Crosby StNew York, NY 10012",Brentano’s Custom Framing,",Art Galleries,Framing",10,4,5,10002
+"315 Bowery StNew York, NY 10003",John Varvatos,",Men's Clothing,Accessories,Shoe Stores",34,4,3,10002
+"211 Elizabeth StNew York, NY 10012",Dinosaur Designs,",Jewelry,Accessories",4,4,5,10002
+"122 Spring StNew York, NY 10012",John Varvatos,",Men's Clothing,Accessories,Shoe Stores",34,4,3.5,10002
+"93 Ludlow StManhattan, NY 10002",The Casino,",Bars", ,4,4,10002
+"1 Crosby StreetNew York, NY 10013",De Vera,",Jewelry",6,4,4,10002
+"98 Forsythe StNew York, NY 10002",Harris Levy,",Kitchen & Bath,Home Decor,Fabric Stores",7,4,3.5,10002
+"355 BoweryNew York, NY 10003",Osaka Vibe Japanese Cuisine & Sushi,",Sushi Bars,Karaoke",5,4,3,10002
+"434 W BroadwayNew York, NY 10012",La Perla,",Lingerie",15,4,4,10002
+"60 E 4th StNew York, NY 10003",Barbara Shaum Leather,",Leather Goods",6,4,4.5,10002
+"93 2nd AveNew York, NY 10003",The Cock,",Dive Bars,Gay Bars",6,4,3,10002
+"255 Centre StNew York, NY 10013",Cordell Fitness Inc,",Gyms,Trainers,Massage",10,4,4,10002
+"302 BoweryNew York, NY 10012",Olde Good Things,",Antiques",6,4,3.5,10002
+"419 W BroadwayNew York, NY 10012",LIK SOHO - Peter Lik Fine Art Photography,",Art Galleries",7,4,4.5,10002
+"355 4th StNew York, NY 10009",Jutta Neumann New York,",Leather Goods,Shoe Stores,Accessories",9,4,4.5,10002
+"122 Delancey StNew York, NY 10002",Richies Clothing,",Men's Clothing,Women's Clothing",7,4,2.5,10002
+"155 Wooster StNew York, NY 10012",Ligne Roset,",Furniture Stores",4,4,5,10002
+"90 Prince StNew York, NY 10012",Moncler,",Men's Clothing,Women's Clothing",48,4,3,10002
+"Broome & BroadwayNew York, NY 10292",Chinese food cart,",Chinese,Food Stands", ,4,5,10002
+"288 Mulberry StNew York, NY 10012",Kixclusive,",Shoe Stores,Sports Wear",5,4,4,10002
+"460 W BroadwayNew York, NY 10012",Leica Store SoHo,",Photography Stores & Services,Art Galleries",11,4,4,10002
+"155 Spring StreetNew York, NY 10012",Atelier Minyon,",Jewelry",3,4,5,10002
+"80 Greene StNew York, NY 10012",Saint Laurent,",Men's Clothing,Women's Clothing",12,4,3.5,10002
+"76 Greene StNew York, NY 10012",The Apartment by The Line,",Accessories,Women's Clothing",3,4,4.5,10002
+"399 W BroadwayNew York, NY 10012",Morgenthal Frederics Opticians,",Eyewear & Opticians",24,4,3.5,10002
+"560 BroadwayNew York, NY 10012",Staley-Wise Gallery,",Art Galleries",3,4,4.5,10002
+"304 MulberryNew York, NY 10012",Dolan’s Apartment,",Adult Entertainment",3,4,4.5,10002
+"5 Crosby StNew York, NY 10013",BDDW,",Furniture Stores",6,4,3.5,10002
+"165 E BroadwayNew York, NY 10002",Emily Sundblad Galleries,",Art Galleries", ,4,5,10002
+"115 Greene StreetNew York, NY 10012",Anya Hindmarch,",Women's Clothing,Accessories",3,4,4.5,10002
+"112 Greene StNew York, NY 10014",Stella McCartney,",Women's Clothing",7,4,3.5,10002
+"109 Crosby StNew York, NY 10012",MYKITA Shop - New York,",Eyewear & Opticians",9,4,4,10002
+"169 Mercer StNew York, NY 10012",45 Rpm Studio,",Men's Clothing,Women's Clothing",7,4,3.5,10002
+"196 Grand StNew York, NY 10012",Nicola Augustine Hair,",Hair Extensions",5,4,3,10002
+"470 Broome StNew York, NY 10013",Eden Fine Art,",Art Galleries",3,4,5,10002
+"75 Greene StNew York, NY 10012",Versus Versace,",Leather Goods,Men's Clothing,Women's Clothing",2,4,5,10002
+"555 Broadway Frnt ANew York, NY 10012",Hugo Boss,",Men's Clothing,Women's Clothing",9,4,4,10002
+"127-131 Division StNew York, NY 10002",Chinatown Lumber Co,",Building Supplies,Hardware Stores",4,4,3,10002
+"555 Broadway Frnt ANew York, NY 10012",Hugo Boss,",Men's Clothing,Women's Clothing",9,4,4,10002
+"127-131 Division StNew York, NY 10002",Chinatown Lumber Co,",Building Supplies,Hardware Stores",4,4,3,10002
+"259 BoweryNew York, NY 10002",Soho Contemporary Art,",Art Galleries", ,4,5,10002
+"54 Mercer StNew York, NY 10013",Fiorentini + Baker,",Shoe Stores",16,4,3,10002
+"32 Greene StNew York, NY 10013",CITE,",Home Decor,Furniture Stores",2,4,5,10002
+"410 W BroadwayNew York, NY 10012",Emporio Armani,",Men's Clothing",10,4,3.5,10002
+"6 Elizabeth StreetNew York, NY 10013",Lisa Beauty Corporation,",Cosmetics & Beauty Supply",3,4,3.5,10002
+"113 Prince StNew York, NY 10012",Oakley,",Eyewear & Opticians",8,4,3.5,10002
+"88 Grand StNew York, NY 10013",Flair,",Furniture Stores",2,4,5,10002
+"185 Canal StNew York, NY 10013",eRxCity,",Drugstores,Medical Supplies",4,4,3,10002
+"42 Greene StNew York, NY 10013",Flou USA,",Furniture Stores,Mattresses",5,4,4,10002
+"250 Mott StNew York, NY 10012",Eli Halili Jewelry and Design,",Jewelry",4,4,4.5,10002
+"93 Greene StNew York, NY 10012",Anne Fontaine Paris,",Women's Clothing,Accessories",3,4,3.5,10002
+"219 E 5th Street Apt 2RNew York, NY 10003",Hair In the City,",Hair Salons",4,4,4,10002
+"93 Mercer StNew York, NY 10012",Helmut Lang,",Accessories,Men's Clothing,Women's Clothing",10,4,3,10002
+"457 Broome StNew York, NY 10013",Lazaro SoHo,",Jewelry,Men's Clothing",9,4,3.5,10002
+"103 Grand StNew York, NY 10013",Alexander Wang,",Women's Clothing,Accessories,Men's Clothing",28,4,2.5,10002
+"139 Spring StNew York, NY 10012",Chanel Boutique,",Men's Clothing,Women's Clothing",5,4,4,10002
+"412 W BroadwayManhattan, NY 10012",Sobral,",Jewelry",3,4,4.5,10002
+"7 Bond St FrntNew York, NY 10012",Bond 07,",Accessories,Eyewear & Opticians",3,4,4.5,10002
