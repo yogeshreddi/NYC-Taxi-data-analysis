@@ -32,7 +32,7 @@ Uber is offered in NYC, along with the NYC Taxi (Yellow cabs). We want to explor
 
 Most probably, scenario (c) may be happening, with different numbers than the above. Our goal is to estimate the extent to which Uber is competing with NYC Taxis.
 
-## Analysis Approac
+## Analysis Approach
 Selected 5 locations in the New York Region:
 Considered a good mix of High-foot fall locations, Tourist spots and Transport hubs.
 
