@@ -45,3 +45,8 @@ Found out the number of Uber VS NYC Taxi Pickups for these location.
 
 ## Results for 1st question
 If Uber didn't existed NYC taxi would have got more rides (NYC taxi was more than capable of meeting the demand in all the 5 locations) , which means that UBER is competing with NYC taxi and taking away NYC taxi rides.
+
+## Extension
+As an extension we are trying to forecast NYC taxi every day rides for the year 2015 with and without uber ride count as a regressor, to see if UBER was competing with NYC taxi. In a way we are doing a hypothesis test, where our null hypothesis is that uber is competing with nyc taxi.
+
+Stay tuned for the results and more updates on the project.
